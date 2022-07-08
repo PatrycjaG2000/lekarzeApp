@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Hair Salon Booking App</string>
+
+
+
+    <string name="ob_header1">REZERWACJA WIZYT</string>
+    <string name="ob_header2">ZNAJDŻ SPECJALISTĘ</string>
+    <string name="ob_header3">ODWIEDŹ LEKARZA</string>
+
+    <string name="ob_get_started">ROZPOCZNIJ</string>
+
+    <string name="ob_desc1">Zarezerwuj wizyty u najlepszy specjalistów</string>
+    <string name="ob_desc2">Stawiamy na najwyższą jakość świadczonych usług lekarskich</string>
+    <string name="ob_desc3">Po potwierdzeniu wizyty, odwiedź lekarza</string>
+
+
+    <string-array name="Doctor">
+        <item>mgr Grzegorz Kluz Fizjoterapeuta</item>
+        <item>dr Joanna Żółcińska Wenerolog, Specjalista medycyny estetycznej, Dermatolog</item>
+        <item>dr n. med. Grzegorz Adamczyk Ortopeda dziecięcy, Ortopeda, Chirurg</item>
+    </string-array>
+
+    <string name="date">Data wizyty :</string>
+    <string name="time">Czas wizyty :</string>
+    <string name="doctor"></string>
+</resources>
